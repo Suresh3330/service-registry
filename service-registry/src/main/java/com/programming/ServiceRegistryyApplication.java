@@ -10,7 +10,7 @@ public class ServiceRegistryyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ServiceRegistryyApplication.class, args);
-		System.out.println("Service-Registry is running");
+		System.out.println("Service-Registry is Running");
 	}
 
 }
